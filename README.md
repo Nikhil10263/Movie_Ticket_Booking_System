@@ -51,4 +51,4 @@ A web-based movie ticket booking system built with Java, JavaScript, CSS, JSP, a
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/nikhil10263/Movie_Ticket_Booking_System/blob/master/LICENSE) file for details.
