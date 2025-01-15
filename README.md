@@ -1,5 +1,3 @@
-[ONLINE_MOVIE_TICKET.pdf](https://github.com/user-attachments/files/18386576/ONLINE_MOVIE_TICKET.1.2.pdf)
-
 # Movie Ticket Booking System
 
 A web-based movie ticket booking system built with Java, JavaScript, CSS, JSP, and DAO servlets. This system allows users to browse movies, select showtimes, and securely purchase tickets.
@@ -20,6 +18,23 @@ A web-based movie ticket booking system built with Java, JavaScript, CSS, JSP, a
 - **DAO (Data Access Object)**: For database interaction and management.
 - **JavaScript**: Client-side functionality for dynamic interactions.
 - **CSS**: Styling of the web pages for a user-friendly interface.
+
+## Screenshots
+- Login Page:
+  
+![2025-01-15_14-32](https://github.com/user-attachments/assets/68d59154-7ace-45d0-8a74-ade2c0a6b1ed)
+
+- Registration Page:
+![2025-01-15_14-32_1](https://github.com/user-attachments/assets/33aab7be-d5f8-4a79-8eb3-cf5d1e42121a)
+
+- Home Page:
+
+![2025-01-15_14-33](https://github.com/user-attachments/assets/a5325154-408d-475a-bc5d-04479d8f27bb)
+
+- Contact us page:
+
+![2025-01-15_14-33_1](https://github.com/user-attachments/assets/716bfc72-e532-43a1-a4a2-ac391ef952dc)
+
 
 ## Prerequisites
 
@@ -45,9 +60,9 @@ A web-based movie ticket booking system built with Java, JavaScript, CSS, JSP, a
 
 ## Usage
 
-  user Side: Browse movies, select a movie, choose showtimes, and book tickets.
+- user Side: Browse movies, select a movie, choose showtimes, and book tickets.
   
-  Admin Side: Add/remove movies, manage showtimes, and view user bookings.
+- Admin Side: Add/remove movies, manage showtimes, and view user bookings.
 
 ## License
 
